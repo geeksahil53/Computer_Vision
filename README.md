@@ -13,7 +13,7 @@ This project demonstrates real-time hand tracking using **MediaPipe** and **Open
 **Install the required dependencies:**
 
 ```bash
-pip install opencv-python mediapipe 
+pip install opencv-python mediapipe ```
 
 
 How to Run
