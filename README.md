@@ -11,9 +11,6 @@ This repository contains a computer vision project that uses **MediaPipe** and *
 - **README.md:**
   - Project documentation and usage guide.
 
-- **requirements.txt (optional):**
-  - List of required Python packages (`opencv-python`, `mediapipe`).
-
 ## Installation
 
 1. Clone this repository to your local machine:
@@ -48,6 +45,20 @@ This repository contains a computer vision project that uses **MediaPipe** and *
 - If a hand is detected, MediaPipe returns 21 hand landmarks.
 - The script then draws these landmarks and the skeletal connections between them on the frame using MediaPipe's drawing utilities.
 - The processed frame is displayed in real time until the user exits.
+  
+## Future Integration
+
+This hand tracking module is planned to be integrated into various interactive projects, such as:
+
+- **Gesture-controlled robotic systems**
+- **Touchless interfaces for embedded devices**
+- **Sign language recognition prototypes**
+- **AR/VR interaction modules**
+- **Custom gesture-based control for drones or UGVs**
+
+## Working Demo 
+![handtracking_demo](https://github.com/user-attachments/assets/7a657def-9088-41d1-8e95-4c1a47b11e18)
+
 
 ## Acknowledgments
 
